@@ -1,4 +1,4 @@
-# work
+# Apollo Project
 Welcome to the first installment of the Apollo project! This is a website called “Apollo”, a Yelp-like clone. Reproduced from Codecademy Ravenous Project.
 In Development process, there are four parts to this project:
 • Creating Static Components
